@@ -2,6 +2,9 @@ class Solution {
 public:
     int maxVowels(string s, int k) {
         int n=s.size();
+        if(k>n){
+            return 0;
+        }
         int maxCnt=INT_MIN;
         int cnt=0;
         for(int i=0;i<k;i++){
