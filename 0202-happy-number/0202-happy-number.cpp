@@ -1,24 +1,26 @@
 class Solution {
 public:
-    bool isHappy(int n) {
-        unordered_set<int> visited;
-        while(n!=1){
-          if(visited.count(n)){
-            return false;
-          }
-          visited.insert(n);
-          int sum=0;
-          while(n>0){
-              int num=n%10;
-              sum=(num*num)+sum;
-              n/=10;
-  
-          }
-          n=sum;
+    int sqrtSum(int n){
+        int sum=0;
+        while(n>0){
+            int digit=n%10;
+            sum += digit*digit;
+            n /=10;
         }
-          
-          
-        return true;
-    }  
-  
+        return sum;
+    }
+    bool isHappy(int n) {
+        int slow=n;
+        int fast=n;
+
+        while(true){
+            slow=sqrtSum(slow);
+            fast=sqrtSum(sqrtSum(fast));
+
+            if(slow==fast)
+              break;
+
+        }
+        return slow == 1;
+    }
 };
