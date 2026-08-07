@@ -11,34 +11,20 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        ListNode* slow=head;
-        ListNode* fast=head;
-        while(fast!=NULL && fast->next!=NULL){
-            slow=slow->next;
-            fast=fast->next->next;
-            
+        vector<int> arr;
+        while(head!=NULL){
+            arr.push_back(head->val);
+            head=head->next;
         }
-        ListNode* prev = NULL;
-        ListNode* curr = slow;
-        
-        while (curr != NULL) {
-            ListNode* next = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = next;
-        }
-        ListNode* first = head; 
-        ListNode* second = prev;
-
-        while(second!=NULL){
-            if(first->val!=second->val){
+        int i=0;
+        int j=arr.size()-1;
+        while (i < j) {
+            if (arr[i] != arr[j])
                 return false;
-            }
-            first=first->next;
-            second=second->next;
+
+            i++;
+            j--;
         }
         return true;
-
-        
     }
 };
