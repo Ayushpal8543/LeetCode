@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Ayushpal8543/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Ayushpal8543/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal8543/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Ayushpal8543/LeetCode/tree/master/0457-circular-array-loop) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayushpal8543/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Ayushpal8543/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushpal8543/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Ayushpal8543/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ayushpal8543/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal8543/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Ayushpal8543/LeetCode/tree/master/0457-circular-array-loop) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayushpal8543/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ayushpal8543/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ayushpal8543/LeetCode/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpal8543/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0457-circular-array-loop](https://github.com/Ayushpal8543/LeetCode/tree/master/0457-circular-array-loop) |
 | [0904-fruit-into-baskets](https://github.com/Ayushpal8543/LeetCode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ayushpal8543/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ayushpal8543/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal8543/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/Ayushpal8543/LeetCode/tree/master/0457-circular-array-loop) |
 ## Math
 |  |
 | ------- |
