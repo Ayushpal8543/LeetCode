@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Ayushpal8543/LeetCode/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/Ayushpal8543/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/Ayushpal8543/LeetCode/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/Ayushpal8543/LeetCode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpal8543/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushpal8543/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ayushpal8543/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Ayushpal8543/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpal8543/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Ayushpal8543/LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpal8543/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ayushpal8543/LeetCode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ayushpal8543/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -189,6 +191,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Ayushpal8543/LeetCode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpal8543/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Ayushpal8543/LeetCode/tree/master/0739-daily-temperatures) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Ayushpal8543/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
