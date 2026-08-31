@@ -133,11 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Ayushpal8543/LeetCode/tree/master/0012-integer-to-roman) |
+| [0089-gray-code](https://github.com/Ayushpal8543/LeetCode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Ayushpal8543/LeetCode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ayushpal8543/LeetCode/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Ayushpal8543/LeetCode/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal8543/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Ayushpal8543/LeetCode/tree/master/0389-find-the-difference) |
 ## Pigeonhole Principle
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Ayushpal8543/LeetCode/tree/master/0402-remove-k-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Ayushpal8543/LeetCode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
