@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushpal8543/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ayushpal8543/LeetCode/tree/master/0012-integer-to-roman) |
+| [0071-simplify-path](https://github.com/Ayushpal8543/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Ayushpal8543/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/Ayushpal8543/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Ayushpal8543/LeetCode/tree/master/0402-remove-k-digits) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Ayushpal8543/LeetCode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Ayushpal8543/LeetCode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Ayushpal8543/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Ayushpal8543/LeetCode/tree/master/0402-remove-k-digits) |
