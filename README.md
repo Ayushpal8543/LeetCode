@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ayushpal8543/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Ayushpal8543/LeetCode/tree/master/0012-integer-to-roman) |
+| [0038-count-and-say](https://github.com/Ayushpal8543/LeetCode/tree/master/0038-count-and-say) |
 | [0071-simplify-path](https://github.com/Ayushpal8543/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Ayushpal8543/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0389-find-the-difference](https://github.com/Ayushpal8543/LeetCode/tree/master/0389-find-the-difference) |
