@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ayushpal8543/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ayushpal8543/LeetCode/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ayushpal8543/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0383-ransom-note](https://github.com/Ayushpal8543/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushpal8543/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ayushpal8543/LeetCode/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ayushpal8543/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Ayushpal8543/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Ayushpal8543/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Ayushpal8543/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0383-ransom-note](https://github.com/Ayushpal8543/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushpal8543/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Ayushpal8543/LeetCode/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/Ayushpal8543/LeetCode/tree/master/0402-remove-k-digits) |
@@ -218,5 +220,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ayushpal8543/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayushpal8543/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
