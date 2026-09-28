@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ayushpal8543/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Ayushpal8543/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushpal8543/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ayushpal8543/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayushpal8543/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ayushpal8543/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Ayushpal8543/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Ayushpal8543/LeetCode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Ayushpal8543/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Ayushpal8543/LeetCode/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 ## Bit Manipulation
 |  |
 | ------- |
