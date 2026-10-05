@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ayushpal8543/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushpal8543/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0457-circular-array-loop](https://github.com/Ayushpal8543/LeetCode/tree/master/0457-circular-array-loop) |
+| [0502-ipo](https://github.com/Ayushpal8543/LeetCode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Ayushpal8543/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Ayushpal8543/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Ayushpal8543/LeetCode/tree/master/0525-contiguous-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Ayushpal8543/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushpal8543/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Ayushpal8543/LeetCode/tree/master/0389-find-the-difference) |
+| [0502-ipo](https://github.com/Ayushpal8543/LeetCode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Ayushpal8543/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Binary Search
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ayushpal8543/LeetCode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/Ayushpal8543/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Ayushpal8543/LeetCode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Ayushpal8543/LeetCode/tree/master/0502-ipo) |
 ## Backtracking
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ayushpal8543/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Ayushpal8543/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Ayushpal8543/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0502-ipo](https://github.com/Ayushpal8543/LeetCode/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/Ayushpal8543/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
